@@ -11,3 +11,4 @@ I also explore the possible gross profit margins seen across product categories 
 
 See an example of the workbook below:
 
+![alt text](https://github.com/zachzazueta/Northwinds_redo/blob/master/tableau.PNG)
