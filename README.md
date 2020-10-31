@@ -3,8 +3,10 @@
 The goal of this project will be to conduct business analysis for Northwind Traders, a ficticious company.
 
 There are a number of business questions that will be assessed:
-- Does discount amount have an impact on quantity of goods sold in an order?
-- Is there a difference in the mean "time to ship" (time passed between order date and ship date) depending on which of the three shippers is fulfilling the order?
+- Does discount increase the quantity sold enough to be profitable?
+- Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?
+- Is there a difference in mean time to ship?
+- Is there a difference in products that are ordered by region?
 
 This cleaned version will attempt to optimize the SQL queries - while I utilized Python to join data frames in the first round of analysis, I will use sqlite to manipulate the data first, reducing the code to be run following the queries.
 
