@@ -52,5 +52,5 @@ Improvements to the workbook would include:
 - Assuming connection to a live data source for sales information and COGS information, calculated profit margin and delta quantity of goods sold could be integrated and updated on a rolling basis.
 
 
-Here is a quick look at the difference between average ship time split by Shipper:
+Here is a quick look at the difference between average ship time split by Shipper:  
 ![alt_text](https://github.com/zachzazueta/Northwinds_redo/blob/master/meantts.png)
